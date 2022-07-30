@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+.cont{
+    display: flex;
+    justify-content: center ;
+    flex-direction: row;
+    width: 1200px;
+    height: 100%;
+}
+h1{
+    padding: 30px;
+    color: white;
+    width: 600px;
+    margin: 0 auto;
+}
+.image1{
+    width: 100px;
+    height: 150px;
+    /* border-radius: 50px; */
+}
+
+.image2{
+    width: 120px;
+    height: 200px;
+}
